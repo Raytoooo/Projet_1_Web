@@ -1,5 +1,5 @@
 # Projet Web numéro 1
-
+> Un projet de Julien TORRES & Tyméo RUGIERO
 ## Journal de bord
 Nous sommes le 13 décembre et arrivons à la fin du projet.
 On explique ici les étapes l'élaboration de ce site !
@@ -10,7 +10,8 @@ Nous avons alors créé un document partagé. On a donc commencé la rédaction 
 
 Voici l'avancé du site à ce stade
 
-- [x] Idée du site,
+- [x] Idée du site
+- [x] Début des recherches
 
 
 ### Séance 2 
@@ -53,4 +54,4 @@ A la maison, nous créons l'affichage du site pour les mobiles & autre formats.
 - [x] Création du responsive du site.
 
 
-Par Julien Torres et Tyméo Rugiero
+> **Par Julien Torres et Tyméo Rugiero**
