@@ -22,7 +22,9 @@ Pour cela nous avons utilisé l'application **Figma**.
 
 - [x] Idée du site,
 - [x] Création de la **maquette du site**
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
+
+![This is an image](https://www.zupimages.net/up/22/50/we0a.png)
 
 ### Séance 3
 Pendant que je m'occupais de créer le HTML, Tyméo s'occupait de terminer la rédaction du contenu du site.
