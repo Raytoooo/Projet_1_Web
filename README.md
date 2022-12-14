@@ -44,6 +44,19 @@ A la maison, nous créons l'affichage du site pour les mobiles & autre formats.
 
 - [x] Création du responsive du site.
 
+#### 14/12/2022
+![image](https://user-images.githubusercontent.com/99443478/207716517-dde7e28c-6ae7-4c46-84e0-31c3c9a22291.png)
+![image](https://user-images.githubusercontent.com/99443478/207717142-802d1b5e-f1d6-45ca-891d-3bb20d3cf8ba.png)
+
+- [x] Correction de quelques bugs d'affichage.
+- [x] Ajout d'une animation de sortie en JS.
+- [x] Ajout d'un curseur animé custom en JS.
+- [x] Ajout la couleur jaune pour éviter que le site soit trop fade .
+
+Il manque encore deux choses : 
+- un loader, 
+- l'animation de sortie des images dans la page d'accueil.
+A voir demain !
 
 ## :+1: Avancées finales : 
 - [x] Idée du site,
