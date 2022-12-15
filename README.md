@@ -68,6 +68,9 @@ A voir demain !
 On réfléchis à une image pour le background afin de rentre le site plus coloré, mais nous sommes déjà très satisfait de ce que nous avons fait !
 Il nous manque aussi quelques pages à faire car nous en avons beaucoup (+ de 10) .
 
+#### 15/12/2022 à 19:00
+- [x] Ajout de toutes les pages
++ Commit HTML
 
 ## :+1: Avancées finales : 
 - [x] Idée du site,
