@@ -1,5 +1,5 @@
 # Projet Web numéro 1
-> Un projet de Julien TORRES & Tyméo RUGIERO
+> Un projet de Julien TORRES (pseudo: Raytoooo)& Tyméo RUGIERO (pseudo: Tymeoo)
 ## Journal de bord
 Nous sommes le 13 décembre et arrivons à la fin du projet.
 On explique ici les étapes l'élaboration de ce site !
@@ -44,7 +44,7 @@ A la maison, nous créons l'affichage du site pour les mobiles & autre formats.
 
 - [x] Création du responsive du site.
 
-#### 14/12/2022
+#### 14/12/2022 à 19h00
 ![image](https://user-images.githubusercontent.com/99443478/207716517-dde7e28c-6ae7-4c46-84e0-31c3c9a22291.png)
 ![image](https://user-images.githubusercontent.com/99443478/207717142-802d1b5e-f1d6-45ca-891d-3bb20d3cf8ba.png)
 
@@ -58,13 +58,23 @@ Il manque encore deux choses :
 - l'animation de sortie des images dans la page d'accueil.
 A voir demain !
 
+
+#### 15/12/2022 à 10:00
+- [x] Ajout d'un loader au moment où on clique sur une année
+- [x] Ajout d'animation de sortie des images quand on ne survole plus le click
+
+On réfléchis à une image pour le background afin de rentre le site plus coloré, mais nous sommes déjà très satisfait de ce que nous avons fait !
+Il nous manque aussi quelques pages à faire car nous en avons beaucoup (+ de 10) .
+
+
 ## :+1: Avancées finales : 
 - [x] Idée du site,
 - [x] Création de la **maquette du site**
 - [x] Rédaction du contenu du site,
 - [x] Création de la partie HTML du site
 - [x] Création de la partie CSS du site,
-- [x] Création du responsive du site.
-
+- [x] Création du responsive du site,
+- [x] Beaucoup d'animations en CSS, le JS complète ce qui n'est pas faisable en terme d'animation,
+- [x] Aucune balise div utilisée.
 
 > **Par Julien Torres et Tyméo Rugiero**
