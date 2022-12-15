@@ -68,8 +68,6 @@ nav a {
 nav hr {
     width: 0px;
     color: var(--gold);
-    background-color: var(--gold);
-    border-color: var(--gold);
     opacity: 0;
     transition: all 0.5s;
 }
