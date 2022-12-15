@@ -61,6 +61,8 @@ A voir demain !
 
 #### 15/12/2022 à 10:00
 - [x] Ajout d'un loader au moment où on clique sur une année
+![image](https://user-images.githubusercontent.com/99443478/207920595-d3c98a90-67d0-4112-b392-1c6c0491b1f9.png)
+
 - [x] Ajout d'animation de sortie des images quand on ne survole plus le click
 
 On réfléchis à une image pour le background afin de rentre le site plus coloré, mais nous sommes déjà très satisfait de ce que nous avons fait !
