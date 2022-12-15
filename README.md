@@ -71,7 +71,7 @@ Il nous manque aussi quelques pages à faire car nous en avons beaucoup (+ de 10
 #### 15/12/2022 à 19:00
 - [x] Ajout de toutes les pages
 + Commit HTML
-+ + Commit CSS
++ Commit CSS
 
 ## :+1: Avancées finales : 
 - [x] Idée du site,
