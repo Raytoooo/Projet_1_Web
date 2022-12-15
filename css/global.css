@@ -1,0 +1,42 @@
+/* VARIABLES  */
+:root {
+    --black: #211F1F; 
+    --white: #F4F4F4;
+    --gold: gold;
+}
+
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;    
+    color: var(--white);
+}
+
+body {
+    background-color: var(--black);
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style-type: none;
+}
+
+
+/* SCROLLBAR */
+::-webkit-scrollbar {
+    width: 5px;
+}
+::-webkit-scrollbar-track {
+    background: none;
+}
+::-webkit-scrollbar-thumb {
+    background: none;
+    border-radius: 5px;
+}
+/* ::-webkit-scrollbar-thumb:hover{
+    background: gray;
+} */
