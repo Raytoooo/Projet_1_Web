@@ -1,5 +1,5 @@
 # Projet Web numéro 1
-> Un projet de Julien TORRES (pseudo: Raytoooo)& Tyméo RUGIERO (pseudo: Tymeoo)
+> Un projet de Julien TORRES (pseudo: Raytoooo) & Tyméo RUGIERO (pseudo: Tymeoo)
 ## Journal de bord
 Nous sommes le 13 décembre et arrivons à la fin du projet.
 On explique ici les étapes l'élaboration de ce site !
@@ -15,7 +15,7 @@ Voici l'avancé du site à ce stade
 
 
 ### Séance 2 
-Cette séances ont servies de piliers pour le site internet. Nous avions commencé le HTML-CSS du site, mais sans idée concrète de ce que l'on voulait.
+Cette séance a servit de piliers pour le site internet. Nous avions commencé le HTML-CSS du site, mais sans idée concrète de ce que l'on voulait.
 Alors, le résultat n'était pas du tout celui attendu, nous avions un site qui ne ressemble à RIEN !
 
 Nous avons alors pris la décision de créer une **maquette pour le site**, afin de savoir où nous allons.
@@ -50,7 +50,7 @@ A la maison, nous créons l'affichage du site pour les mobiles & autre formats.
 
 - [x] Correction de quelques bugs d'affichage.
 - [x] Ajout d'une animation de sortie.
-- [x] Ajout la couleur jaune pour éviter que le site soit trop fade .
+- [x] Ajout la couleur jaune pour éviter que le site soit trop fade.
 
 Il manque encore deux choses : 
 - un loader, 
@@ -65,7 +65,7 @@ A voir demain !
 - [x] Ajout d'animation de sortie des images quand on ne survole plus le click
 
 On réfléchis à une image pour le background afin de rentre le site plus coloré, mais nous sommes déjà très satisfait de ce que nous avons fait !
-Il nous manque aussi quelques pages à faire car nous en avons beaucoup (+ de 10) .
+Il nous manque aussi quelques pages à faire car nous en avons beaucoup (+ de 10).
 
 #### 15/12/2022 à 19:00
 - [x] Ajout de toutes les pages
